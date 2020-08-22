@@ -34,7 +34,7 @@ My NLP algorithms and notes since my NLP journey started.
     between two gene sequences (strings) to find the global alignment. All characters(nucleotides)
     must match.
 
-### 6) <a href="./implementations/The Smith-Waterman Algorithm/">The Smşth-Waterman Algorithm</a>
+### 6) <a href="./implementations/The Smith-Waterman Algorithm/">The Smith-Waterman Algorithm</a>
     The Smith-Waterman algorithm is an algorithm that is used in NLP and Bioinformatics to detect 
     all possible alignments. Checking the confusion matrix is a way to find matches. 
     Some characters(nucleotides) may not match.
